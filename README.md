@@ -1,6 +1,6 @@
 # Hi 👋, I'm harim
 
-- 📕 I'm currently studying in Hanyang University
+- 🎓 Master Student in Information System @ Hanyang university 
 - 🔭 I'm currently learning ML
 - 📫 How to reach me **harim1002@hanyang.ac.kr**
   
